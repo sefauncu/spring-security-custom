@@ -8,5 +8,6 @@ public class SecurityCustomApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(SecurityCustomApplication.class, args);
+        //start project
     }
 }
